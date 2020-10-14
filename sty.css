@@ -1,0 +1,129 @@
+body,html{
+  height: 100%;
+}
+
+
+
+.paral{
+  background-image: url("20200311_181440.jpg");
+  height: 100%;
+    position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+.paral2
+{
+  background-image: url("20191020_094228.jpg");
+  height: 500px;
+
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.paral3
+{
+  background-image: url("20200312_201550.jpg");
+   position: relative;
+  height: 760px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.di
+{
+  background-color: white;
+  font-family:"Montez";
+  font-weight: 900;
+  color:#282E34;
+  font-size:35px ;
+  text-align: center;
+  padding: 40px 300px;
+  border: 6px dashed black;
+}
+.di1
+{
+  background-color: #282E34;
+  font-family:"Montez";
+  font-weight: 900;
+  color: white;
+  font-size:35px ;
+  text-align: center;
+  padding: 40px 350px;
+  border:6px dashed white ;
+  border-radius: 80%;
+  
+
+}
+.di2
+{
+  background-color:#282E34;
+  font-family: "Montez";
+  font-weight: 900;
+  color: white;
+  font-size:35px ;
+  text-align: center;
+  padding: 20px 350px;
+  padding: 40px 300px;
+  border: 6px dashed white;
+  border-radius: 80%;
+
+}
+.di3
+{
+  background-color: white;
+  font-family:"Montez";
+  font-weight: 900;
+  color:black;
+  font-size:35px ;
+  text-align: center;
+  padding: 40px 350px;
+  border:10px dashed black ;
+  margin-bottom: 40px;
+  
+
+}
+.caption
+{
+  background-color: black;
+  color:white;
+  font-family:"Kaushan Script";
+  font-size: 30px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  right: 40%;
+  display: inline-block;
+  padding: 5px 10px;
+  letter-spacing: 10px;
+  opacity: 0.85;
+
+}
+.caption2
+{
+  background-color: black;
+  color:white;
+  font-family:"Kaushan Script";
+  font-size: 30px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  right: 35%;
+  display: inline-block;
+  padding: 5px 10px;
+  letter-spacing: 10px;
+  opacity: 0.85;
+
+}
+div
+{
+  display: block;
+}
